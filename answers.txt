@@ -1,1 +1,1 @@
-
+a) Agile development is good with small cross functional teams and for teams that want or need constant collaboration with customers. For teams that are larger or who have customers who cannot be in contact, agile development does not work as well.
